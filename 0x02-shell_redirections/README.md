@@ -9,3 +9,4 @@ create a file with text
 Save current state of directory
 Duplicate last line
 Delete files with an extension
+count directories
