@@ -11,3 +11,7 @@ Print result of division
 Print result with power
 Convert from base 2 to 10
 Print number to 2 decimal place
+Convert decimal to hexadecimal
+Encode and decode text
+Print line from input
+add two numbers in global variable
