@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la .vim|grep -c ^d
+find . -type d -not -name '.' | wc -l
+
