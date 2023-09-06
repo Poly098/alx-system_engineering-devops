@@ -21,3 +21,7 @@ Replace characters
 Remove letters c
 Reverse input
 Display all user and home directories
+find empty files and directories
+list all files with gifs
+decode acrostic
+parse web servers
